@@ -5,7 +5,7 @@ Sadegh Farhang, Mehmet Bahadir Kirdan, Aron Laszka, and Jens Grossklags.
 "An Empirical Study of Android Security Bulletins in Different Vendors"
 The Web Conference (WWW), April 2020
 
-##Citation
+## Citation
 ```cli
 @inproceedings{farhang2020empirical,
 author={Sadegh Farhang and Mehmet Bahadir Kirdan and Aron Laszka and Jens Grossklags},
